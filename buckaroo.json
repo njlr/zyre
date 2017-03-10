@@ -1,0 +1,6 @@
+{
+  "name": "zyre",
+  "dependencies": {
+    "czmq": "4.0.2"
+  }
+}
